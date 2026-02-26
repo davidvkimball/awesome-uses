@@ -185,6 +185,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Ivan Malopinsky](https://imsky.co/uses) — Entrepreneur, engineer
 * [Murendeni Mukwevho](https://mukwevhom.xyz/uses) — Software Developer breaking the bias in South Africa
 * [Márk Mihályi](https://markmihalyi.hu/uses) — Full-Stack Engineer from Hungary
+* [James Neawedde](https://jamesneawedde.com/uses/) — Systems Engineer, Developer, Generalist
 * [Vít Baisa](https://vit.baisa.cz/uses) — Software engineer who likes removing code
 * [Declan Chidlow](https://vale.rocks/uses) — Frontend developer, designer, dabbler, and user of the information superhighway.
 * [Kendry Grullón](https://kengru.do/uses) — Software engineer interested in art
