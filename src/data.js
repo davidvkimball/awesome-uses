@@ -506,6 +506,16 @@ module.exports = [
     ],
   },
   {
+    name: 'Railly Hugo',
+    description: 'AI Software Engineer @ Clerk. Founder of Crafter Station.',
+    url: 'https://railly.dev/uses',
+    country: '🇵🇪',
+    computer: 'apple',
+    phone: 'iphone',
+    twitter: '@raillyhugo',
+    tags: ['TypeScript', 'JavaScript', 'React', 'Next.js', 'Rust', 'TailwindCSS', 'Bun'],
+  },
+  {
     name: 'matizeta',
     description: 'Comunicator and Designer',
     url: 'https://matizeta.com/uses/',
