@@ -513,7 +513,15 @@ module.exports = [
     computer: 'apple',
     phone: 'iphone',
     twitter: '@raillyhugo',
-    tags: ['TypeScript', 'JavaScript', 'React', 'Next.js', 'Rust', 'TailwindCSS', 'Bun'],
+    tags: [
+      'TypeScript',
+      'JavaScript',
+      'React',
+      'Next.js',
+      'Rust',
+      'TailwindCSS',
+      'Bun',
+    ],
   },
   {
     name: 'matizeta',

@@ -47,6 +47,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Alex Koval](https://k0va1.dev/posts/uses) — Full-Stack Developer, Entrepreneur, Ruby on Rails enthusiast
 * [Matthew Javelet](https://javelet.dev/uses) — Full-stack developer and server admin
 * [Iago Bruno](https://iagobruno.dev/uses) — Full-stack developer with ascending in back-end.
+* [Railly Hugo](https://railly.dev/uses) — AI Software Engineer @ Clerk. Founder of Crafter Station.
 * [matizeta](https://matizeta.com/uses/) — Comunicator and Designer
 * [Rachel Cantor](https://rachel.fyi/uses) — Hiya! I am a Trusted Tester and Frontend Engineer.
 * [Sayantan](https://www.anaverage.dev/uses) — An average TypeScript Engineer.
