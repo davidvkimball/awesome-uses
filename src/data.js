@@ -7202,6 +7202,7 @@ module.exports = [
   name: 'David V. Kimball',
   description: 'Digital marketing professional. Loves technology and communication, especially together.',
   url: 'https://davidvkimball.com/uses',
+  twitter: '@davidvkimball',
   emoji: '✝️',
   country: '🇺🇸',
   computer: 'windows',
